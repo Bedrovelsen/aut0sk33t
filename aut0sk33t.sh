@@ -1,7 +1,7 @@
 #!/bin/bash
 
 TARGET=$1
-echo -e "A'ight homie! We aut0k33tin $TARGET\n\n" 
+echo -e "A'ight homie! We aut0sk33tin $TARGET\n\n" 
 
 echo -e "G'nna start gripping subdomaynes yo!\n\n"
 
